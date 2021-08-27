@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/margin_8"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:enabled="false" />
+
+    <TextView xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/textView_offer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.9"
+        android:fontFamily="sans-serif"
+        android:minWidth="@dimen/min_width_channels"
+        android:padding="@dimen/margin_12"
+        android:textColor="@color/black"
+        tools:text="Specifics" />
+
+
+</LinearLayout>

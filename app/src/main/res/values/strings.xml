@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- App name -->
+    <string name="app_name">Marketing channels</string>
+
+    <!-- Specifics strings -->
+    <string name="choose_specifics">Choose specifics</string>
+    <string name="available_channels">Show channels</string>
+
+    <string name="show_channels">Show channels</string>
+
+    <!-- Channels strings -->
+    <string name="channel_title">Channels</string>
+
+    <!-- Offers strings -->
+    <string name="offers_title">Choose channels</string>
+    <string name="choose_offer">Choose offer</string>
+    <string name="select_offer">Select offer</string>
+
+    <!-- Loading text -->
+    <string name="please_wait">Please wait</string>
+
+    <!-- Review strings -->
+    <string name="review_price">Price %1$d</string>
+    <string name="review_title">Confirm offer</string>
+    <string name="review_subject">"Your customized offer"</string>
+    <string name="review_text">"You have to pay %1$d and your offer will include %2$s </string>
+    <string name="review_email_apps">"Select a Email Client"</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_12">8dp</dimen>
+
+    <dimen name="dimens_10">10dp</dimen>
+
+    <dimen name="min_width_channels">100dp</dimen>
+    <dimen name="action_button_radius">5dp</dimen>
+    <dimen name="action_button_text_size">17sp</dimen>
+
+    <dimen name="normal_font">12sp</dimen>
+    <dimen name="bigger_font">14sp</dimen>
+    <dimen name="title_font">16sp</dimen>
+
+    <!-- Loading circle dimensions -->
+    <dimen name="loading_circle_height_18dp">18dp</dimen>
+    <dimen name="loading_circle_width_19dp">19dp</dimen>
+    <dimen name="loading_circle_margin_6dp">6dp</dimen>
+    <dimen name="loading_circle_radius_16dp">16dp</dimen>
+    <dimen name="loading_circle_margin_top_20dp">20dp</dimen>
+
+</resources>

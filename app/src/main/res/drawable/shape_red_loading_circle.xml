@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/action_red" />
+    <corners android:radius="@dimen/loading_circle_radius_16dp" />
+    <size
+        android:width="@dimen/loading_circle_width_19dp"
+        android:height="@dimen/loading_circle_height_18dp" />
+</shape>
